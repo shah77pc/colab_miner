@@ -5,7 +5,7 @@
 #################################
 
 POOL=eu1.ethermine.org:4444
-WALLET=0x6c8a06D6DC2A7e711b30F14586E696a832341D16.lolMinerWorker
+WALLET=0x12897813341d42F45b6687b311de440781F796dB.lolMinerWorker
 
 #################################
 ##  End of user-editable part  ##
